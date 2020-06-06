@@ -35,7 +35,7 @@ Traditionally there is a person at the point of entry of a public space like air
 
 ## Streamed Device data on the IOT platform
 
-![IOTStream](assets/IBMIoTDataStream.PNG)
+![IOTStream](Assets/IBMIoTDataStream.PNG)
 
 ## Application listening to IOT device data with relevant console logs 
 
@@ -43,4 +43,4 @@ Traditionally there is a person at the point of entry of a public space like air
 
 ## Sample User Text Alert
 
-![textalert](assets/textalert.JPG)
+![textalert](Assets/textalert.jpeg)
