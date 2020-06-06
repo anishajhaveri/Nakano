@@ -17,7 +17,7 @@ Traditionally there is a person at the point of entry of a public space like air
 ![5](https://user-images.githubusercontent.com/54938773/83952767-d4437300-a858-11ea-8d71-3d21060a75e7.png)
 
 
-#Circuit
+# Circuit
 
 ![Glorious Lahdi-Leelo](https://user-images.githubusercontent.com/54938773/83952772-e8877000-a858-11ea-91be-2c867947c97e.png)
 
@@ -25,21 +25,22 @@ Traditionally there is a person at the point of entry of a public space like air
 
 ![Nakano](https://user-images.githubusercontent.com/54938773/83952794-0b198900-a859-11ea-9b21-b3eb8b598994.png)
 
-#Simulating Temperature Sensor data
-
+## Streaming temperature sensor data to the IOT platform
+#### (Data is simulated sensor data in this case)
 ![temperature](https://user-images.githubusercontent.com/54938773/83952801-1d93c280-a859-11ea-8be5-a50182c47c25.PNG)
 
-#IBM Watson IOT stream
-
-![app](https://user-images.githubusercontent.com/54938773/83952813-4025db80-a859-11ea-9f54-545ecb7c2ab8.PNG)
-
-
-#Platform
+## IBM Watson IOT Platform  
 
 ![IOT](https://user-images.githubusercontent.com/54938773/83952824-5338ab80-a859-11ea-8e3c-d1cc7551e48d.PNG)
 
+## Streamed Device data on the IOT platform
 
+![IOTStream](assets/IBMIoTDataStream.PNG)
 
+## Application listening to IOT device data with relevant console logs 
 
+![app](https://user-images.githubusercontent.com/54938773/83952813-4025db80-a859-11ea-9f54-545ecb7c2ab8.PNG)
 
+## Sample User Text Alert
 
+![textalert](assets/textalert.JPG)
