@@ -43,4 +43,4 @@ Traditionally there is a person at the point of entry of a public space like air
 
 ## Sample User Text Alert
 
-![textalert](Assets/textalert.jpeg)
+![textalert](Assets/TextAlert.jpeg)
