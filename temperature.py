@@ -20,7 +20,7 @@ client.connect(host, 1883, 60)
 while True:
     try:
         temp,t = random.uniform(97,100), time.ctime()
-        client.publish(topic, json.dumps({'Temp':temp,'Time':t}))
+        client.publish(topic, json.dumps({'Temperature':temp,'Time':t}))
         print ("Data published")
         print(str(temp)+"\t"+str(t))
         time.sleep(3)
